@@ -1,0 +1,21 @@
+Hall Name,Capacity
+Lecture Hall 1,120
+Lecture Hall 2,140
+Lecture Hall 3,160
+Lecture Hall 4,180
+Lecture Hall 5,200
+Auditorium A,300
+Auditorium B,350
+Science Block Hall A,150
+Science Block Hall B,160
+Science Block Hall C,170
+Engineering Block Hall A,200
+Engineering Block Hall B,220
+Engineering Block Hall C,240
+Arts Block Hall A,130
+Arts Block Hall B,140
+Main Examination Hall 1,400
+Main Examination Hall 2,450
+Library Hall,100
+Computer Center Hall,180
+Management Block Hall,160
