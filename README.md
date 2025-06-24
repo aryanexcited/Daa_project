@@ -37,6 +37,9 @@ A Qt-based C++ application to efficiently allocate students to exam halls based 
    - Upload a student CSV (name, roll number, branch)
    - Upload a hall CSV (hall name, capacity)
 
+     ![WhatsApp Image 2025-05-18 at 19 23 20 (3)](https://github.com/user-attachments/assets/eebf0105-6f58-428c-b0bc-6d71e137435e)
+
+
 2. **Allocation Logic**:
    - Each table seats 2 students (left/right)
    - Branch conflict is checked to ensure diverse seating
@@ -45,6 +48,8 @@ A Qt-based C++ application to efficiently allocate students to exam halls based 
 3. **Display and Export**:
    - Allocation results are shown in the UI (tabular)
    - Can be exported to `allocation_results.csv`
+   
+   ![WhatsApp Image 2025-05-18 at 19 23 20 (2)](https://github.com/user-attachments/assets/20f7e3de-6637-4019-bf09-ef3c8424ec17)
 
 ---
 
@@ -103,6 +108,8 @@ Hall B,60
 RollNo,Name,Branch,Hall,Table,Side
 1234,John Doe,CSE,Hall A,1,Left
 5678,Jane Smith,ECE,Hall A,1,Right
+
+
 ```
 
 ---
